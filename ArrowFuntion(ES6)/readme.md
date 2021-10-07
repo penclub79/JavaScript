@@ -1,6 +1,6 @@
 Arrow Function
 
-ES5 & ES6 Function 문법 비교
+- ES5 & ES6 Function 문법 비교
 
 ````javascript
 // ES5
@@ -23,7 +23,9 @@ console.log(myName2('dodo'));
 
 기존 es5에서 `function`을 선언 하지만 es6부터 variable을 선언하고 `=>` 화살표 문법을 사용하여
 코드를 직관적이고 읽기 쉽게 바뀌었다.
+
 ---
+
 - `map`, `filter`, `reduce` 등의 내장 함수에도 **화살표 함수**를 표현할 수 있다.
 
 ####Map 표현
