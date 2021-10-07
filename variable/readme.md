@@ -1,4 +1,6 @@
 # JavaScript 변수선언
+- ES5문법
+
 var, let, const
 ---
 ####var
