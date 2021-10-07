@@ -3,7 +3,7 @@
 
 var, let, const
 ---
-####var
+#### var
 
 변수 선언마다 각각 다른 변수의 출력문을 볼 수 있다.
 ex)
@@ -17,7 +17,7 @@ console.log(name); // b 출력
 
 - 단점으로 코드량이 많아지면 어디서 사용되는지 혼동된다.
 ---
-####let
+#### let
 
 재할당 가능한 변수선언 방식이다.
 ````javascript
@@ -34,7 +34,7 @@ fruit = 'banana';
 console.log(fruit)
 ````
 ---
-####const
+#### const
 
 immutable(불변)하는 변수선언 방식이다.
 ````javascript
