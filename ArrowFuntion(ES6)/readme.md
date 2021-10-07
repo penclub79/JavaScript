@@ -28,7 +28,7 @@ console.log(myName2('dodo'));
 
 - `map`, `filter`, `reduce` 등의 내장 함수에도 **화살표 함수**를 표현할 수 있다.
 
-####Map
+####const
 
 ````javascript
 // ES5
